@@ -1,10 +1,12 @@
 # Freight Traffic Apps
 application for shippers, freight forwarders and carriers
 
-## repos:
+**Project:** <https://github.com/freightt>
 
-**Backend 1:** https://github.com/freightt/ft-backend-fastify
+## Repos:
 
-**Frontend 1:** https://github.com/freightt/ft-frontend-nextjs
+**Backend 1:** <https://github.com/freightt/ft-backend-fastify>
 
-**Users management and auth:** https://github.com/freightt/ft-keycloak
+**Frontend 1:** <https://github.com/freightt/ft-frontend-nextjs>
+
+**Users management and auth:** <https://github.com/freightt/ft-keycloak>
